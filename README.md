@@ -1,1 +1,1 @@
-readme file
+This is showing current directory 
